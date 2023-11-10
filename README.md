@@ -26,8 +26,9 @@ Presentation link: [Google Slide](https://docs.google.com/presentation/d/1mF39Oj
 
 # <b>Demonstration Pictures of the Project</b>
 
-![Normal_Footage]()
+![Website_Home](https://github.com/Zein-Zeus/brief-textsummarizer/assets/123252432/baa3db85-5e9b-4211-ac06-429989ea1741)
 
-![Drowsiness]()
+![Website_Compare](https://github.com/Zein-Zeus/brief-textsummarizer/assets/123252432/58c1fc7d-1f8b-4799-942b-e46233dcd774)
+
 
 ![Yawn]()
