@@ -22,13 +22,13 @@ It allows users to input a link or text and grasps the keywords to provide an ac
 ~   Sumy: Sumy is a library for automatic summarization. It provides tools for extracting the most important sentences from a text document.<br>
 
 
-Presentation link: [Google Slide](https://docs.google.com/presentation/d/1mF39OjadchSom_WzYQoSeuoA05aRdAkBE620oFKr1Oo/edit?usp=sharing)
+Presentation link: [Google Slides](https://docs.google.com/presentation/d/1mF39OjadchSom_WzYQoSeuoA05aRdAkBE620oFKr1Oo/edit?usp=sharing)
 
 # <b>Demonstration Pictures of the Project</b>
+
+<b>Website:</b>
 
 ![Website_Home](https://github.com/Zein-Zeus/brief-textsummarizer/assets/123252432/baa3db85-5e9b-4211-ac06-429989ea1741)
 
 ![Website_Compare](https://github.com/Zein-Zeus/brief-textsummarizer/assets/123252432/58c1fc7d-1f8b-4799-942b-e46233dcd774)
 
-
-![Yawn]()
