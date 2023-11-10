@@ -22,10 +22,6 @@ It allows users to input a link or text and grasps the keywords to provide an ac
 ~   Sumy: Sumy is a library for automatic summarization. It provides tools for extracting the most important sentences from a text document.<br>
 
 
-
-<b>Text-to-speech tool:</b> <br>
-~   espeak: for generating alarm messages.<br>
-
 Presentation link: [Google Slide](https://docs.google.com/presentation/d/1mF39OjadchSom_WzYQoSeuoA05aRdAkBE620oFKr1Oo/edit?usp=sharing)
 
 # <b>Demonstration Pictures of the Project</b>
